@@ -12,13 +12,11 @@ Update - https://tools-for-analytics-2019.appspot.com/update
 
 
 ## Contributors details
-Project group 21; Section 2
 
 Name:
 
-Aditya Baser (asb2287)
-
-Daanish Rode (dsr2152)
+Aditya Baser - Columbia University, Master's in Operations Research
+Daanish Rode - Columbia Univeristy, Master's in Management Sciences
 
 ## Prerequisites
 
